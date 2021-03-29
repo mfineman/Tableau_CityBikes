@@ -7,15 +7,15 @@ In this project I was asked to study the information available from the trip his
 
 The visualizations suggest a more or less inverse relationship between number of rides and the duration of those rides from any given start station, at least at the extremes.  The stations with the greatest number of rides (dashboard 1) during the last month are almost exclusively located in Manhattan, but this is also the area in which the station with the shortest rides are located (dashboard 4), while the stations with the fewest rides--mostly located in the outer boroughs, tend to have longer ride times.
 
-![ridership_maps](images/ridership_geog.png)
+![ridership_maps](ridership_geog.png)
 
 The demographic data (dashboard 7) shows that the stations from which fewer but longer rides depart are in areas with less affluent populations.  One possible explanation is that folks in these areas have less money to spend on recreational rides, and, when they do use the bikes, it is for transportation purposes when they need to go somewhere too far to walk.  
 
-![demographic_maps](images/ridership_demog.PNG)
+![demographic_maps](ridership_demog.PNG)
 
 The median age of the population in these zip codes is also younger than other areas of the city, and our data (dashboard 5) shows that younger age groups tend to take longer rides than older groups.
 
-![age-gender-chart](images/age_gender.PNG)
+![age-gender-chart](age_gender.PNG)
 
 ## Popularity of Start Stations and Destinations
 
